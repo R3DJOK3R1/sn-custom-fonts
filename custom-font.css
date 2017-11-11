@@ -1,8 +1,8 @@
 @font-face {
-  font-family: customFont;
-  src: url(yourfont.ttf);
+  font-family: 'customFont';
+  src: url('yourfont.ttf');
 }
 
-.CodeMirror .CodeMirror * {
-  font-family: customFont;
+#note-text-editor {
+  font-family: 'customFont';
 }

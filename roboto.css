@@ -1,8 +1,8 @@
 @font-face {
-  font-family: customFont;
-  src: url(fonts/roboto.ttf);
+  font-family: 'Roboto';
+  src: url('fonts/roboto.ttf');
 }
 
-.CodeMirror .CodeMirror * {
-  font-family: customFont;
+#note-text-editor {
+  font-family: 'Roboto';
 }
