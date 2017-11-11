@@ -1,0 +1,8 @@
+@font-face {
+  font-family: customFont;
+  src: url(fonts/roboto.ttf);
+}
+
+.CodeMirror .CodeMirror * {
+  font-family: customFont;
+}
