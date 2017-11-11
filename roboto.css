@@ -3,6 +3,6 @@
   src: url('fonts/roboto.ttf');
 }
 
-.editor-content {
+#note-text-editor {
   font-family: 'Roboto';
 }
